@@ -1,0 +1,21 @@
+Installed python on my machine
+Installed atom
+created github public account
+then copy the git hub link fromclone or download
+on atom, press cntrl+shift+p
+search for git hub clone, enter the github link in from field
+press clone
+next, I want to acess github  from gitbash
+every time instead og giving the entire URL, we can set up some nick name 
+for that we need to initialize the local repository on desktop
+git init(this will initialize the local repository)
+$ git remote add nickname githubaccountURL
+git remote(it will give the remote)
+$git clone githubaccount
+git remote -v(which will give the nickname and the remote connection URL)
+git fetch --all
+
+
+
+
+
