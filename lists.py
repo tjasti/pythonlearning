@@ -9,4 +9,4 @@ print(subjects)
 #Adding items back to the list
 #copy method
 subjects1=subjects.copy()
-print(subjects1)
+#print(subjects1)
