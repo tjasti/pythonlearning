@@ -18,4 +18,3 @@ print(string.count('o'))
 print(len(string))
 print(string.replace("o", "_"))
 """replace method will replace the old characters with new ones"""
-print(string)
