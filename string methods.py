@@ -18,3 +18,12 @@ print(string.count('o'))
 print(len(string))
 print(string.replace("o", "_"))
 """replace method will replace the old characters with new ones"""
+print(string)
+print(string.replace("Hello","Hi"))
+"""in step 22, it did not replace the content in the actual string that is string,because replace method
+returns the value which has to be stored in some variable"""
+print(string)
+string=string.replace("Hello","Hi")
+print(string)
+#print(dir(string))
+#print(help(str))
