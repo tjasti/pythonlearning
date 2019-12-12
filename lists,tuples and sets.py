@@ -90,3 +90,12 @@ tuple2=()
 print(tuple2)
 set2={}
 """We cannot use the above method because it considers as a dictionary"""
+print(a)
+g=sorted(a)
+print(g)
+"""sorted method is used to sort the items"""
+#How to print the items of a list using loops
+"""Loops***************************"""
+print("Using for loops")
+for i in a:
+    print(i)

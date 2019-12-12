@@ -1,0 +1,15 @@
+#Dictinary is a combination of keys and Values
+#Create a blank dictionary, then add items
+#change the values of the dictionary
+#Delete the values of a dictionary
+#update number of values at a time
+#calculate the length of the dictionary
+#print the deleted value
+# print just the keys of a dictionary
+#print just the values of a dictionary
+#print both the keys and the values
+#use for loop to print the keys in a line
+#use for loop to print the values in a line
+#use for loop to print the keys,Values
+#use get method to retrieve the Values
+#give the non existing key in get method and print the customized error
