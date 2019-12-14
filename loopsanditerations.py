@@ -41,3 +41,5 @@ while (p1<=10):
     print(table,"*",p1,"=",(table*p1))
     p1=p1+1;
 print("***********")
+#infinite loop
+o=1
