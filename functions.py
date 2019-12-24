@@ -46,3 +46,7 @@ def leapyear(year):
 print("enter a year to finf whether the given year is a leap year or not")
 leapyear1=int(input())
 leapyear(leapyear1)
+print("enter a month ")
+month=int(input())
+#scenario8:please refer yo functions_tasks.python file
+if 1<=month<=12:
